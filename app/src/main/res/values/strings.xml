@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cinescape</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="sort_by">Sort by</string>
+    <string-array name="sort_options">
+        <item>Popularity</item>
+        <item>Ratings</item>
+    </string-array>
+    <string name="title_activity_movie_detail">Movie Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="EXTRA_moviePoster">EXTRA_MOVIE_POSTER</string>
+    <string name="EXTRA_movieTitle">EXTRA_MOVIE_TITLE</string>
+    <string name="EXTRA_movieBackdrop">EXTRA_MOVIE_BACKDROP</string>
+    <string name="EXTRA_movieOverview">EXTRA_MOVIE_OVERVIEW</string>
+    <string name="EXTRA_movieReleaseDate">EXTRA_MOVIE_RELEASE_DATE</string>
+    <string name="EXTRA_movieRating">EXTRA_MOVIE_RATING</string>
+    <string name="ReleasedOn">"Released On - "</string>
+    <string name="Rating">"Rating - "</string>
+
+</resources>
